@@ -1,7 +1,9 @@
 🌿 Biruwa - Plants Ecommerce Site
+
         Biruwa is a modern and responsive e-commerce website built for selling plants online. Developed using PHP (Laravel framework) with HTML, CSS, and JavaScript, this project offers a          full-featured shopping experience for both users and administrators.
 
 🔧 Tech Stack
+
         Backend: PHP (Laravel)
         
         Frontend: HTML, CSS, JavaScript
@@ -11,6 +13,7 @@
         Framework: Laravel
 
 ✨ Features
+
       a. User registration and login
       
       b. Product listing with images and details
@@ -24,6 +27,7 @@
       f. Responsive design for mobile and desktop
 
 🚀 Getting Started
+
     1. Clone the repository
     
     2. Set up .env for environment configuration
